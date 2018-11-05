@@ -1,4 +1,4 @@
-# arduinoSicaklikveNem
+# Arduino Sicaklik ve Nem
 Wemos D1 ve DHT11 ile sıcaklık ve nem kontrolü
 
 Projemizin asıl amacı kısaca uzaktan pencereyi açıp kapatmayı sağlayabilmektir. Ancak şu anda kullanılan
